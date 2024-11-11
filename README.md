@@ -1,1 +1,1 @@
-# Lorenz-Curves-Economics
+# Lorenz Curves Economics Class
